@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to backend 👋</h1>
+<h1 align="center">Welcome to devHouse 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/backend" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/backend.svg">
@@ -28,14 +28,14 @@
 
 ## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
-- cors ^2.8.5
-- express ^4.18.2
-- mongoose ^6.8.1
-- multer ^1.4.5-lts.1
-- nodemon ^2.0.20
-- sucrase ^3.29.0
+- ``npm >=5.5.0``
+- ``node >=9.3.0``
+- ``cors ^2.8.5``
+- ``express ^4.18.2``
+- ``mongoose ^6.8.1``
+- ``multer ^1.4.5-lts.1``
+- ``nodemon ^2.0.20``
+- ``sucrase ^3.29.0``
 
 ## Install
 
@@ -65,3 +65,8 @@ This project is [MIT](https://github.com/MariaE-duarda/devHouse/blob/master/LICE
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
+<p align="center">done with 💖 per:</p>
+<div align="center">
+<img height="70" src="https://avatars.githubusercontent.com/u/95583989?v=4" />
+</div>
